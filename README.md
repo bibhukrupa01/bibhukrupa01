@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Bibhukrupa!
 
-<!--
-**bibhukrupa01/bibhukrupa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer, tech enthusiast, and lifelong learner. I enjoy exploring innovative technologies, solving challenging problems, and collaborating on open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- **🌟 Interests**: Full-stack development,  AI/ML
+- **👷‍♂️ Currently working on**: Exciting open-source projects and personal side hustles.
+- **🎯 Goals**: To contribute to impactful projects and continuously expand my knowledge base.
+- **📖 Learning**: Exploring new frameworks, tools, and technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, C++, etc.
+- **Frontend**: React, Vue.js, HTML5, CSS3
+- **Backend**: Node.js, Express.js, Django, Flask
+- **Databases**: MongoDB, MySQL
+
+---
+
+## 📫 How to reach me?
+- **GitHub**: [bibhukrupa01](https://github.com/bibhukrupa01)
+- **Email**: bibhukrupa5@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/bibhu-krupa-pradhan-45b021329/
+
+Feel free to connect with me or check out my repositories!
+
+---
+
+## 🌱 Fun Facts
+- 💡 I love experimenting with new ideas to websites.
+- 🧩 When I'm not coding, you'll find me solving puzzles or reading tech blogs.
+
+---
+
+Thank you for visiting my profile! 😊
