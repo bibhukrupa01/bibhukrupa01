@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate web developer, tech enthusiast, a
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, C++, etc.
-- **Frontend**: React, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Express.js, Django, Flask
+- **Frontend**: React, HTML5, CSS3
+- **Backend**: Node.js, Django
 - **Databases**: MongoDB, MySQL
 
 ---
