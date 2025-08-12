@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer, tech enthusiast, a
 ---
 
 ## 🚀 About Me
-- **🌟 Interests**: Full-stack development,  AI/ML
+- **🌟 Interests**: Full-stack development
 - **👷‍♂️ Currently working on**: Exciting open-source projects and personal side hustles.
 - **🎯 Goals**: To contribute to impactful projects and continuously expand my knowledge base.
 - **📖 Learning**: Exploring new frameworks, tools, and technologies.
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate web developer, tech enthusiast, a
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, C++, etc.
+- **Languages**: JavaScript, Python, C, etc.
 - **Frontend**: React, HTML5, CSS3
 - **Backend**: Node.js, Django
 - **Databases**: MongoDB, MySQL
